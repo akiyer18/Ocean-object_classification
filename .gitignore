@@ -127,3 +127,45 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific
+# Extracted data directories
+data/train_extracted/
+data/test_extracted/
+data/test-colour_extracted/
+
+# Model files
+models/*.h5
+models/*.hdf5
+models/*.pb
+models/*.pkl
+models/*.joblib
+
+# Training outputs
+docs/training_history.png
+docs/prediction_report.txt
+
+# Large data files
+*.rar
+*.zip
+*.tar.gz
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp

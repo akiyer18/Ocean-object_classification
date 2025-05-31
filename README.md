@@ -88,7 +88,7 @@ Ocean-object_classification/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/akstud/Ocean-object_classification.git
+   git clone https://github.com/akiyer18/Ocean-object_classification.git
    cd Ocean-object_classification
    ```
 
@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **akstud** - *Initial work* - [akstud](https://github.com/akstud)
+- **Akshaye Iyer** - *Initial work and major reorganization* - [akiyer18](https://github.com/akiyer18)
 
 ## 🙏 Acknowledgments
 
@@ -200,7 +200,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions and suggestions, please open an issue on GitHub or reach out to the maintainers.
+For questions and suggestions, please contact:
+- **Email**: akshaye.iyer@outlook.com
+- **GitHub**: [akiyer18](https://github.com/akiyer18)
+- **Issues**: Open an issue on this repository
 
 ---
 
